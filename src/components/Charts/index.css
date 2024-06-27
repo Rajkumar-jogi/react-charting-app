@@ -1,0 +1,26 @@
+.charts-container{
+    width: 96%;
+    max-width: 1400px;
+    border: 2px solid #f6f7f6;
+    padding: 12px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.3);
+    overflow: auto;
+    margin-bottom: 32px;
+}
+
+.export-chat-btn{
+    background-color: transparent;
+    color: #050505;
+    padding: 8px 12px;
+    border: 2px dashed #9c07f8;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.export-text{
+    font-family: 'Lucida Sans';
+    font-size: 20px;
+    font-weight: 500;
+    color: #050505;
+}
+
